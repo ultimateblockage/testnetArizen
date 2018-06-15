@@ -5,4 +5,4 @@ Arizen wallet build for testnet
 
 Install .deb using the following command:
 
-sudo dpkg -i /path/to/test/testnetArizen_1.1.7_amd64.deb
+sudo dpkg -i /path/to/testnetArizen_1.1.7_amd64.deb
