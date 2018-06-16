@@ -28,7 +28,7 @@ This has just been hacked to return testnet, rather than mainnet addresses, coul
 
 zencashjs/src and zencashjs/lib
 
-config.js (testnet block updated to)...
+config.js - testnet block updated to...
 
   testnet: {
     bip32: {
